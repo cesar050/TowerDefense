@@ -1,0 +1,88 @@
+# Archivos generados por el sistema operativo
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Icon?
+._*
+
+# Archivos de logs y bases de datos
+*.log
+*.sql
+*.sqlite
+
+# Archivos de compilación
+*.build
+*.pid
+
+# Archivos temporales y de caché
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+
+# Archivos y directorios de Unity
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+MemoryCaptures/
+AssetBundleBackups/
+Assets/AssetBundles/
+Assets/StreamingAssets/
+Assets/Plugins/Android/libs/
+
+# Archivos de configuración del proyecto de Unity
+UserSettings/
+
+# Ignorar todos los archivos ocultos excepto .gitignore
+.*
+!.gitignore
+
+# Ignorar paquetes de Unity
+Packages/manifest.json
+Packages/packages-lock.json
+
+# Archivos generados por Visual Studio
+.vs/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+
+# Archivos generados por Rider
+.idea/
+*.sln.iml
+
+# Archivos generados por VS Code
+.vscode/
+
+# Archivos relacionados con sistemas de control de versiones
+*.git
+*.hg
+*.svn
+
+# Archivos relacionados con Unity Collaborate
+.collab/
+
+# Archivos de configuración del proyecto
+*.pidb.meta
+*.pidb
+*.booproj
+*.svd
+
+# Unity3D generated meta files
+*.pidb.meta
+
+# Unity3D Generated File On Crash Reports
+sysinfo.txt
