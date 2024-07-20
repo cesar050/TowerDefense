@@ -9,7 +9,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 411309209135081175}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: FiringPoint
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -40,7 +40,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 231888395963867008}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: RotatePoint
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -74,7 +74,7 @@ GameObject:
   m_Component:
   - component: {fileID: 3615782578204427458}
   - component: {fileID: 8853735527439095664}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Gun
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -158,7 +158,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1733384033740457443}
   - component: {fileID: 909494535171275518}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Turret
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -201,7 +201,7 @@ MonoBehaviour:
   bulletPrefab: {fileID: 5562183541028554176, guid: 49e90020e4e66fc4cbf81096617d8d76, type: 3}
   firingPoint: {fileID: 411309209135081175}
   targetingRange: 3
-  rotationSpeed: 200
+  rotationSpeed: 250
   bps: 1
 --- !u!1 &8057431560031301460
 GameObject:
@@ -213,7 +213,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2604916268501456635}
   - component: {fileID: 1685274393298126038}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Base
   m_TagString: Untagged
   m_Icon: {fileID: 0}
