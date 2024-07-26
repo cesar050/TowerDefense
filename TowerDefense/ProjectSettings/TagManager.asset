@@ -13,8 +13,8 @@ TagManager:
   - UI
   - Enemy
   - Bullet
-  - 
-  - 
+  - MainTurret
+  - EnemyBullet
   - 
   - 
   - 
@@ -42,5 +42,8 @@ TagManager:
     uniqueID: 0
     locked: 0
   - name: Turrets
+    uniqueID: 605209071
+    locked: 0
+  - name: Enemies
     uniqueID: 605209071
     locked: 0
