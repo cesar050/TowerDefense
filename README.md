@@ -63,4 +63,4 @@ Una vez abierta la escena, presiona el botón "Play" en la parte superior del ed
 ![image](https://github.com/user-attachments/assets/69aa6e6f-b3b5-4942-854c-8e26b65a9f9a)
 
 ## Resumen 
-- En resumen tienes que construir torretas para evitar que los enemigos destruyan tu torre principal,
+- En resumen tienes que construir torretas para evitar que los enemigos destruyan tu torre principal, el juego unicamente se terminara cuando la torre sea destruida. 
