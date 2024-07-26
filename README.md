@@ -2,7 +2,7 @@
 ## Guía para Iniciar el Proyecto de Unity: Tower Defense
 Requisitos Previos
 - Unity Editor: Asegúrate de tener instalada la versión recomendada del Unity Editor para el proyecto. Puedes descargarlo desde Unity Hub.
-- Git: Asegúrate de tener Git instalado en tu sistema. Puedes descargarlo desde Git.
+- Git: Asegúrate de tener Git instalado en tu sistema. Lo puedes descargarlo desde Git.
 
 ## Clonar el Repositorio
 Abre una Terminal o Línea de Comandos:
