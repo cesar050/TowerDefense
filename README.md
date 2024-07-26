@@ -1,11 +1,11 @@
 # TOWER DEFENSE
 ![Captura](https://github.com/user-attachments/assets/a18540a9-a50d-460b-ada8-26dd44a3885c)
 
-##INTEGRANTES
+## INTEGRANTES
 - Alexis Jara
-- Cesar Ramos
-- Wagner Balzazar
+- Wagner Balcazar
 - Cesar Lopez
+- Cesar Ramos
 - Santiago Jimenez
 ## Guía para Iniciar el Proyecto de Unity: Tower Defense
 Requisitos Previos
