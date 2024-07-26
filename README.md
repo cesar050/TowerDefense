@@ -1,4 +1,6 @@
 # TOWER DEFENSE
+![Captura](https://github.com/user-attachments/assets/a18540a9-a50d-460b-ada8-26dd44a3885c)
+
 ##INTEGRANTES
 - Alexis Jara
 - Cesar Ramos
