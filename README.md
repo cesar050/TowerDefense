@@ -61,3 +61,5 @@ Una vez abierta la escena, presiona el botón "Play" en la parte superior del ed
 - Con estas instrucciones, deberías poder clonar tu repositorio, abrir la escena principal y comenzar a trabajar en tu proyecto de Unity. ¡Espero que todo funcione perfectamente!
 
 ![image](https://github.com/user-attachments/assets/69aa6e6f-b3b5-4942-854c-8e26b65a9f9a)
+
+## Resumen 
