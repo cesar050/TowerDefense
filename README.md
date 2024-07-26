@@ -14,8 +14,7 @@ Usa el siguiente comando para clonar el repositorio a tu máquina local:
 bash
 Copiar código
 git clone [https://github.com/DavosJar/TowerDefense.git]
-Reemplaza [https://github.com/DavosJar/TowerDefense.git] con la URL del repositorio de Git.
-Navega al Directorio del Proyecto:
+## Navega al Directorio del Proyecto:
 
 Una vez clonado, navega al directorio del proyecto usando:
 bash
