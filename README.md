@@ -38,7 +38,7 @@ Seleccionar la Escena:
 En el editor de Unity, ve a la ventana "Project" (Proyecto).
 Navega a la carpeta Assets y busca la subcarpeta que contiene la escena (por lo general, en una carpeta llamada Scenes o similar).
 Busca el archivo principal.unity y haz doble clic en él para abrir la escena principal.
-Ejecutar la Escena:
+Ejecutar la escena:
 
 Una vez abierta la escena, presiona el botón "Play" en la parte superior del editor para ejecutar la escena y ver el proyecto en acción.
 Resolución de Problemas
