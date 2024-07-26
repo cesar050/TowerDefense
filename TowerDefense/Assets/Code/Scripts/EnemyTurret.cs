@@ -3,10 +3,9 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEditor;
 
-
-
-public class Turret : MonoBehaviour
+public class EnemyTurret : MonoBehaviour
 {
+    // Start is called before the first frame update
     [Header("References")]
     [SerializeField] private Transform turretRotationPoint;
     [SerializeField] private LayerMask enemyMask;
